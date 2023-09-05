@@ -2,7 +2,7 @@
 This project makes use of Genetic algorithm to help a an epuck robot navigate about a maze using [Webot](https://cyberbotics.com/)
 
 ### Video Demo 
-[![Genetic Algorithm](https://img.youtube.com/vi/cfNjr1UXDn8/0.jpg)](https://www.youtube.com/watch?v=cfNjr1UXDn8)
+[![Genetic Algorithm](https://img.youtube.com/vi/8upeADU4Pfw/0.jpg)](https://www.youtube.com/watch?v=8upeADU4Pfw)
 
 ## Guide
 ```
