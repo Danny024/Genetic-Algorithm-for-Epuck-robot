@@ -1,12 +1,13 @@
 # Genetic-Algorithm-for-Epuck-robot
 This project makes use of Genetic algorithm to help a an epuck robot navigate about a maze using Webot
 
-## Instruction
+## Guide
+```
 To launch the world:
 1.goto worlds/e-puck_Robotics_TMaze.wbt
 2.Run Simulation and press 'R' to demo the best result.
 3.Press 'S' to start GA training
-
+```
 Four python codes are used to run this simulation.
 Listed as follows
 ```
